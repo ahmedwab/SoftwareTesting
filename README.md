@@ -32,7 +32,7 @@ Note: python 3 and 2 can be used simultaneously.
   ```
 
 Also, you will need to download the statistics and BeautifulSoup libraries.
-* opencv
+* bs4
   ```sh
   $ pip3 install bs4
   $ pip3 install statistics
